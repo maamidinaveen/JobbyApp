@@ -1,0 +1,47 @@
+.search-input-container {
+  padding: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  width: 25%;
+  border: 1px solid #ff0b37;
+  background-color: transparent;
+  padding-left: 20px;
+  height: 35px;
+}
+
+.search-icon {
+  background-color: #272727;
+  font-size: 25px;
+}
+
+.heading {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 600;
+  padding-left: 20px;
+}
+
+.employment-list {
+  list-style-type: none;
+}
+
+.employ-item {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.box {
+  margin-right: 10px;
+  height: 15px;
+  width: 15px;
+}
+
+.label-name {
+  color: black;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
